@@ -5,7 +5,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import org.example.embed.FullName;
 
-@Entity(name = "customer")/* entity eke namath customer wenawa */
+@Entity/* entity eke namath customer wenawa */
 /*@Table(name = "test")  hibernate eka ethuledi entity eke nama wenas wenne ne table eke nama wenas karannawa witharai*/
 public class Student {
 
